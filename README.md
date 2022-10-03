@@ -9,3 +9,4 @@
   Coloquei uma imagem de fundo do formato gif para ser mais interessante.
   Todas as páginas tem um botão que direciona novamente para o início do site.
   Utilizei páginas Html e Css separadas para todas as seções.
+  Aqui está o link:https://maiararib388.github.io/Projeto-Individual/
